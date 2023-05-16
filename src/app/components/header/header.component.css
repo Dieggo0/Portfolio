@@ -1,0 +1,5 @@
+.navbar{
+    background-color: #a6acb9;
+    font-family: 'MuseoSans';
+    background-image: var(--bs-gradient)
+}

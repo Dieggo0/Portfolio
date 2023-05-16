@@ -1,0 +1,9 @@
+.container-fluid{
+    background-color: #a6acb9;
+    background-image: var(--bs-gradient)
+}
+
+h1{
+    color: azure;
+    font-family: 'MuseoSans';
+}
