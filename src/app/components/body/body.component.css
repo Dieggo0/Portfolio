@@ -1,9 +1,27 @@
-.container-fluid{
-    background-color: #a6acb9;
-    background-image: var(--bs-gradient)
+.container-fluid {
+    /* background-color: #140019; */
+    background-image: var(--bs-gradient);
+    background-image: url(/assets/Lineas.gif);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    font-size: 100px;
+    font-family: 'Times';
+    text-align: center;
+    padding-top: 400px;
+    padding-bottom: 500px;
+    color: rgb(226, 40, 40);
+    
 }
 
-h1{
-    color: azure;
-    font-family: 'MuseoSans';
+h2{
+    font-size: 50px;
+    font-family: 'Arial';
+    text-align: center;
+    text-decoration: underline 3px;
+    text-underline-offset: 25px;
+    text-decoration-color: #ffff;
+    padding-top: 200px;
+    padding-bottom: 20px;
 }

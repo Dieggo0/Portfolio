@@ -1,5 +1,23 @@
 .navbar{
-    background-color: #a6acb9;
-    font-family: 'MuseoSans';
+    background-color: #140019;
+    font-family:'Roboto', 'Helvetica', sans-serif;
     background-image: var(--bs-gradient)
 }
+
+a{
+    color: #2c3f58;
+}
+
+.nav-link{
+    font-size: 20px;
+    font-family: 'Arial';
+    margin-right: 15px;
+    margin-left: 40px;
+}
+
+.navbar-fixed {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 100;
+  }
