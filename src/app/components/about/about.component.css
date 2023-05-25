@@ -27,7 +27,7 @@ h1{
   } 
 
 .list{
-    list-style-type: none;
+    list-style-type: none; 
     padding: 0;
     margin: 0;
     display: flex;
@@ -43,5 +43,3 @@ h1{
     font-size: 25px;
     font-family: 'Arial';
 }
-
-  
