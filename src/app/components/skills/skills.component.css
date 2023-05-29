@@ -1,106 +1,136 @@
 .container-fluid{
     background-color: rgb(247, 247, 247);
+    padding-bottom: 100px;
 }
 
 h1{
-    font-size: 80px;
+    font-size: 60px;
     font-family: 'Times';
     text-align: center;
-    padding-top: 70px;
-    padding-bottom: 150px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     text-decoration: underline 3px;
     text-underline-offset: 25px;
 }
 
-/* .image-fluid {
-    position: relative;
-    display: inline-block;
-  }
-  
-.image-fluid img {
-    filter: grayscale(100%);
-    transition: filter 0.6s;
-}
-  
-.image-fluid:hover img {
-    filter: grayscale(0%);
-} */
-  
-ul{
-  align-content: center;
-}
-
-li{
-  list-style-type: none;
-  display:inline-block;
-  
-  padding-left: 90px;
-}
-
-.skills-list{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.html{
-  width: 150px;
+#html{
+  width: 80px;
   height: auto;
   filter: grayscale(100%);
   transition: filter 0.6s;
 }
 
-.html:hover{
+#html:hover{
   filter: grayscale(0%);
 }
 
-.css{
-  width: 150px;
+#css{
+  width: 80px;
   height: auto;
   filter: grayscale(100%);
   transition: filter 0.6s;
 }
 
-.css:hover{
+#css:hover{
   filter: grayscale(0%);
 }
 
-.javascript{
-  width: 170px;
+#javascript{
+  width: 90px;
   height: auto;
   filter: grayscale(100%);
   transition: filter 0.6s;
 }
 
-.javascript:hover{
+#javascript:hover{
   filter: grayscale(0%);
 }
 
-.bootstrap{
-  width: 180px;
+#bootstrap{
+  width: 110px;
   height: auto;
   filter: grayscale(100%);
   transition: filter 0.6s;
-  padding-top: 40px;
+  padding-top: 25px;
 }
 
-.bootstrap:hover{
+#bootstrap:hover{
   filter: grayscale(0%);
 }
 
-.java{
-  width: 180px;
+#java{
+  width: 110px;
   height: auto;
   filter: grayscale(100%);
   transition: filter 0.6s;
-  padding-top: 40px;
+  padding-top: 20px;
 }
 
-.java:hover{
+#java:hover{
   filter: grayscale(0%);
 }
 
-.angular{
+#angular{
+  width: 120px;
+  height: auto;
+  filter: grayscale(100%);
+  transition: filter 0.6s;
+  padding-top: 20px;
+}
+
+#angular:hover{
+  filter: grayscale(0%);
+}
+
+#github{
+  width: 110px;
+  height: auto;
+  filter: grayscale(100%);
+  transition: filter 0.6s;
+  padding-top: 30px;
+}
+
+#github:hover{
+  filter: grayscale(0%);
+}
+
+#mysql{
+  width: 160px;
+  height: auto;
+  filter: grayscale(100%);
+  transition: filter 0.6s;
+  padding-top: 10px;
+}
+
+#mysql:hover{
+  filter: grayscale(0%);
+}
+
+#springboot{
+  width: 100px;
+  height: auto;
+  filter: grayscale(100%);
+  transition: filter 0.6s;
+  padding-top: 50px;
+}
+
+#springboot:hover{
+  filter: grayscale(0%);
+}
+
+#git{
+  width: 100px;
+  height: auto;
+  filter: grayscale(100%);
+  transition: filter 0.6s;
+  padding-top: 50px;
+}
+
+#git:hover{
+  filter: grayscale(0%);
+}
+
+#illustrator{
   width: 200px;
   height: auto;
   filter: grayscale(100%);
@@ -108,6 +138,18 @@ li{
   padding-top: 50px;
 }
 
-.angular:hover{
+#illustrator:hover{
+  filter: grayscale(0%);
+}
+
+#photoshop{
+  width: 130px;
+  height: auto;
+  filter: grayscale(100%);
+  transition: filter 0.6s;
+  padding-top: 50px;
+}
+
+#photoshop:hover{
   filter: grayscale(0%);
 }

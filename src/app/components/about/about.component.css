@@ -3,43 +3,31 @@
 }
 
 h1{
-    font-size: 80px;
+    font-size: 60px;
     font-family: 'Times';
     text-align: center;
     padding-top: 70px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     text-decoration: underline 3px;
     text-underline-offset: 25px;
 }
 
 #image-container {
-    width: 900px;
-    height: 900px;
+    width: 500px;
+    height: 500px;
     position: relative;
     overflow: hidden;
+    padding-right: 50px;
   }
   
-  #image-container img {
+#image-container img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
-  } 
-
-.list{
-    list-style-type: none; 
-    padding: 0;
-    margin: 0;
-    display: flex;
-    align-items: center;
-}
-
-.image-container{
-    padding-left: 30px;
-}
+} 
 
 .text-container{
-    padding-left: 90px;
-    font-size: 25px;
+    font-size: 15px;
     font-family: 'Arial';
 }
