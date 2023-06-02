@@ -1,0 +1,41 @@
+.container-fluid{
+    padding-bottom: 100px;
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Times';
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    text-decoration: underline 3px;
+    text-underline-offset: 25px;
+}
+
+.card{
+    width: 450px;
+    height: auto;
+    align-self: center;
+    overflow: hidden;
+}
+
+.card-iamge img{
+    transition: 1 ease;
+}
+
+.card-iamge:hover img{
+    padding-top: 120px;
+    transform: scale(1.9);
+}
+
+.card-body{
+    padding-top: 70px;
+}
+
+#texto-calculadora{
+    padding-bottom: 46px;
+}
+
+#hero{
+    padding-top: 50px;
+}
