@@ -1,0 +1,34 @@
+.container-fluid{
+    padding-bottom: 100px;
+    background-color: #140019;
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Times';
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-decoration: underline 3px;
+    text-underline-offset: 15px;
+}
+
+.instagram{
+    width: 80px;
+    height: auto;
+}
+
+.linkedin{
+    width: 80px;
+    height: auto;
+}
+
+.github{
+    width: 80px;
+    height: auto;
+}
+
+#mail{
+    font-size: 20px;
+    padding-top: 50px;
+}
