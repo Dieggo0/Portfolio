@@ -23,7 +23,7 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "assets/Lineas.gif"
+              "src/assets/Lineas.gif"
             ],
             "styles": [
               "src/styles.css"
