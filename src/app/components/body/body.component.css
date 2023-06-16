@@ -1,7 +1,8 @@
 #Portada {
     /* background-color: #140019; */
+    /*background-image: url(https://i.ibb.co/Hx5BXJh/Lineas.gif); */
+    background-color: black;
     background-image: var(--bs-gradient);
-    background-image: url(https://i.ibb.co/Hx5BXJh/Lineas.gif);
     background-repeat: no-repeat;
     background-size:cover;
 }
